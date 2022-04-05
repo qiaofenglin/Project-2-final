@@ -77,3 +77,5 @@ h1 small { padding:160px 0; font:normal 14px/2em Arial, Helvetica, sans-serif; t
 .footer a { color:#69bacb; text-decoration:none;}
 p.response { text-align:center; color:#F00; font: normal 11px Georgia, "Times New Roman", Times, serif; line-height:1.8em; width:auto; }
 #myphoto{ width: 300px;height: 300px;}
+#floated{ width: 98px;height: 98px;}
+.myvideo{ width: 320px;height: 240px;}
