@@ -39,7 +39,7 @@ h1 small { padding:160px 0; font:normal 14px/2em Arial, Helvetica, sans-serif; t
 .body p { font: normal 12px Arial, Helvetica, sans-serif; color:#777; padding:5px; margin:0; line-height:1.8em;}
 .body p span { font: bold 14px Arial, Helvetica, sans-serif; color:#777;}
 .body img { float:left; margin:5px; padding:0;}
-.body img.floated { float:right; margin:10px; padding:0;}
+.body img.floated { float:right; margin:10px; padding:0;width: 98px;height: 98px;}
 .body a { color:#69bacb; text-decoration:none;}
 .left { float:left; width:655px; margin:0; padding:0;}
 .right { float:right; width:255px; margin:0; padding:0;}
@@ -77,5 +77,4 @@ h1 small { padding:160px 0; font:normal 14px/2em Arial, Helvetica, sans-serif; t
 .footer a { color:#69bacb; text-decoration:none;}
 p.response { text-align:center; color:#F00; font: normal 11px Georgia, "Times New Roman", Times, serif; line-height:1.8em; width:auto; }
 #myphoto{ width: 300px;height: 300px;}
-#floated{ width: 98px;height: 98px;}
 .myvideo{ width: 320px;height: 240px;}
