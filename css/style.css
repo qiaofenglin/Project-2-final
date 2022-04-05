@@ -25,7 +25,7 @@ h1 small { padding:160px 0; font:normal 14px/2em Arial, Helvetica, sans-serif; t
 .menu ul li a.active span { color:#fff;  background-color: #113d39;border-radius:10px;box-shadow: 10px 10px 10px rgba(0,0,0,.5);-moz-box-shadow: 10px 10px 10px rgba(0,0,0,.5);-webkit-box-shadow: 10px 10px 10px rgba(0,0,0,.5);}
 
 .headert_text_resize { width:968px; height:320px; padding:0; margin:0 auto;}
-.headert_text_resize img { float:right;  margin:0; padding:0;border-radius:10px;box-shadow: 10px 10px 10px rgba(0,0,0,.5);-moz-box-shadow: 10px 10px 10px rgba(0,0,0,.5);-webkit-box-shadow: 10px 10px 10px rgba(0,0,0,.5);}
+.headert_text_resize img { width: 490px;height: 250px;float:right;  margin:0; padding:0;border-radius:10px;box-shadow: 10px 10px 10px rgba(0,0,0,.5);-moz-box-shadow: 10px 10px 10px rgba(0,0,0,.5);-webkit-box-shadow: 10px 10px 10px rgba(0,0,0,.5);}
 .headert_text { width:400px; float:left; margin:0; padding:0;}
 .headert_text h2 { font: normal 50px 'Dancing Script', cursive,sans-serif; color:#434b52; padding:28px 0 5px; margin:0;}
 .headert_text p { font: normal 16px Arial, Helvetica, sans-serif; color:#7b7b7b; padding:5px 0; margin:0;}
