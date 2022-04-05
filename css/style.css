@@ -61,7 +61,7 @@ h1 small { padding:160px 0; font:normal 14px/2em Arial, Helvetica, sans-serif; t
 .FBG_resize2 { margin:0 auto; padding:0; width:970px; border-bottom:1px solid #999;  border-top:1px dashed  #999;}
 
 .FBG { margin:0; padding:0; }
-.FBG img { float:left; margin:5px 10px 5px 0; padding:0;}
+.FBG img { width: 81px;height: 78px;float:left; margin:5px 10px 5px 0; padding:0;}
 .FBG h2 { color:#585858;  font: normal 24px Arial, Helvetica, sans-serif;  padding:3px 0 3px 25px; margin:5px 0 15px 0; text-transform:uppercase;}
 .FBG p { color:#585858; font: normal 12px Arial, Helvetica, sans-serif;  padding:5px 0; margin:0; line-height:1.8em;}
 .FBG a  { color:#69bacb; text-decoration:none;}
